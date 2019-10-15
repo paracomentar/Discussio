@@ -1,2 +1,5 @@
 # Discussio
-Aquí podem discutir sobre els projectes/ideas que calguin i sobre l'organització en si.
+
+Tens una idea? Obre un "issue" perquè la puguem discutir entre tots.
+
+Les idees podem ser per aplicacions, webs i qualsevol cosa relacionada amb la tecnologia.
