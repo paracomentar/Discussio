@@ -13,16 +13,12 @@ Vés amb compte, ja que freenode no t'emmascara la ip, sempre pots utilitzar tor
 
 https://webchat.freenode.net/
 
-```
-You can connect to freenode by pointing your IRC client at chat.freenode.net on ports 6665-6667 and 8000-8002 for plain-text connections, or ports 6697, 7000 and 7070 for SSL-encrypted connections.
 
-Freenode is also reachable via Tor, bound to some restrictions. You can't directly connect to chat.freenode.net via Tor; use the following hidden service as the server address instead:
+> You can connect to freenode by pointing your IRC client at chat.freenode.net on ports 6665-6667 and 8000-8002 for plain-text connections, or ports 6697, 7000 and 7070 for SSL-encrypted connections.
 
-ajnvpgl6prmkb7yktvue6im5wiedlz2w32uhcwaamdiecdrfpwwgnlqd.onion
+> Freenode is also reachable via Tor, bound to some restrictions. You can't directly connect to chat.freenode.net via Tor; use the following hidden service as the server address instead: ajnvpgl6prmkb7yktvue6im5wiedlz2w32uhcwaamdiecdrfpwwgnlqd.onion
 
-If you are using an old version of Tor (before 0.3.5) that does not support v3 addresses, you should instead use the following address:
+> If you are using an old version of Tor (before 0.3.5) that does not support v3 addresses, you should instead use the following address: freenodeok2gncmy.onion
 
-freenodeok2gncmy.onion
-```
 
 Mes info: https://freenode.net/kb/answer/chat
